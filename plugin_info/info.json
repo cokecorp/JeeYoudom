@@ -1,0 +1,21 @@
+{
+	"id" : "jeeyoudom",
+	"name" : "Youdom",
+	"description" : "Plugin en lien avec le site de Youfom ainsi que la chaine de Domotech",
+	"licence" : "AGPL",
+	"author" : "Thibaut Trarbach",
+	"require" : "3.2",
+	"category" : "programming",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "https://jeedom.github.io/plugin-template/#language#/changelog",
+	"documentation" : "https://jeedom.github.io/plugin-template/#language#/",
+	"link" : {
+		"Discord":"https://discord.gg/YaC8esD",
+		"Youdom" : "https://youdom.net/",
+		"Youtube Domotech" : "https://www.youtube.com/channel/UCMhSUDyT8t_mC7l3Rk0HXww"
+	},
+	"language" : ["fr_FR"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy","mobile","V4"]
+}
