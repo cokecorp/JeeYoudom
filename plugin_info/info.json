@@ -1,7 +1,7 @@
 {
 	"id" : "jeeyoudom",
 	"name" : "Youdom",
-	"description" : "Plugin en lien avec le site de Youfom ainsi que la chaine de Domotech",
+	"description" : "Plugin en lien avec le site de Youdom ainsi que la chaine de Domotech",
 	"licence" : "AGPL",
 	"author" : "Thibaut Trarbach",
 	"require" : "3.2",
